@@ -18569,7 +18569,9 @@
       "tags": {
         "network": "Translink",
         "network:wikidata": "Q1142140",
-        "route": "bus"
+        "route": "bus",
+        "operator": "Coast Mountain Bus Company",
+        "operator:wikidata": "Q1104377"
       }
     },
     {
